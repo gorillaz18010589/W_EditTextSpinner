@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="edits_array_2">
+        <item>選項一</item>
+        <item>選項二</item>
+
+    </array>
+
+
+    <array name="edits_array_1">
+        <item>漢堡</item>
+        <item>果汁</item>
+
+    </array>
+
+</resources>
